@@ -1,6 +1,10 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://midtestsite.github.io/call-for-research-papers/</loc>
+  </url>
   
   <url>
     <loc>https://midtestsite.github.io/categories/</loc>
@@ -12,6 +16,10 @@
   
   <url>
     <loc>https://midtestsite.github.io/organizing-committee/</loc>
+  </url>
+  
+  <url>
+    <loc>https://midtestsite.github.io/program-committee/</loc>
   </url>
   
   <url>
